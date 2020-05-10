@@ -1,0 +1,1 @@
+{"version":3,"file":"OutputFormatNode.d.ts","sourceRoot":"","sources":["../../src/nodes/OutputFormatNode.ts"],"names":[],"mappings":"AAGA,OAAO,EAAE,UAAU,EAAE,MAAM,qBAAqB,CAAC;AACjD,OAAO,EAAE,KAAK,EAAE,MAAM,qBAAqB,CAAC;AAE5C,OAAO,gBAAgB,MAAM,6BAA6B,CAAC;AAE3D,MAAM,CAAC,OAAO,OAAO,gBAAiB,SAAQ,gBAAgB;IACrD,MAAM,CAAC,EAAE,UAAU,CAAC;gBAEf,KAAK,EAAE,KAAK;CAQzB"}

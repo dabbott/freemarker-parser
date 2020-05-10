@@ -1,0 +1,1 @@
+{"version":3,"file":"ImportNode.d.ts","sourceRoot":"","sources":["../../src/nodes/ImportNode.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,UAAU,EAAE,MAAM,qBAAqB,CAAC;AACjD,OAAO,EAAE,KAAK,EAAE,MAAM,qBAAqB,CAAC;AAE5C,OAAO,YAAY,MAAM,yBAAyB,CAAC;AAEnD,MAAM,CAAC,OAAO,OAAO,UAAW,SAAQ,YAAY;IAC3C,MAAM,CAAC,EAAE,UAAU,CAAC;gBAEf,KAAK,EAAE,KAAK;CAIzB"}

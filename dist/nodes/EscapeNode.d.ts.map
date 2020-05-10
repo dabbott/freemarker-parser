@@ -1,0 +1,1 @@
+{"version":3,"file":"EscapeNode.d.ts","sourceRoot":"","sources":["../../src/nodes/EscapeNode.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,UAAU,EAAE,MAAM,qBAAqB,CAAC;AACjD,OAAO,EAAE,KAAK,EAAE,MAAM,qBAAqB,CAAC;AAE5C,OAAO,gBAAgB,MAAM,6BAA6B,CAAC;AAE3D,MAAM,CAAC,OAAO,OAAO,UAAW,SAAQ,gBAAgB;IAC/C,MAAM,CAAC,EAAE,UAAU,CAAC;gBAEf,KAAK,EAAE,KAAK;CAKzB"}

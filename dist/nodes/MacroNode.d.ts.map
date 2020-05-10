@@ -1,0 +1,1 @@
+{"version":3,"file":"MacroNode.d.ts","sourceRoot":"","sources":["../../src/nodes/MacroNode.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,UAAU,EAAE,MAAM,qBAAqB,CAAC;AACjD,OAAO,EAAE,KAAK,EAAE,MAAM,qBAAqB,CAAC;AAE5C,OAAO,gBAAgB,MAAM,6BAA6B,CAAC;AAE3D,MAAM,CAAC,OAAO,OAAO,SAAU,SAAQ,gBAAgB;IAC9C,MAAM,CAAC,EAAE,UAAU,CAAC;gBAEf,KAAK,EAAE,KAAK;CAKzB"}

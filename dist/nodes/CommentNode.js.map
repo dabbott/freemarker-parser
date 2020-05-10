@@ -1,0 +1,1 @@
+{"version":3,"file":"CommentNode.js","sourceRoot":"","sources":["../../src/nodes/CommentNode.ts"],"names":[],"mappings":";;;;;AAAA,iDAA8C;AAE9C,2EAAmD;AAEnD,MAAqB,WAAY,SAAQ,sBAAY;IAGnD,YAAY,KAAY;QACtB,KAAK,CAAC,qBAAS,CAAC,OAAO,EAAE,KAAK,CAAC,CAAC;QAChC,IAAI,CAAC,QAAQ,CAAC,KAAK,CAAC,CAAC;QACrB,IAAI,CAAC,IAAI,GAAG,KAAK,CAAC,IAAI,CAAC;IACzB,CAAC;CACF;AARD,8BAQC"}

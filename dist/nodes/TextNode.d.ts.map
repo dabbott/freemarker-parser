@@ -1,0 +1,1 @@
+{"version":3,"file":"TextNode.d.ts","sourceRoot":"","sources":["../../src/nodes/TextNode.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,KAAK,EAAE,MAAM,qBAAqB,CAAC;AAC5C,OAAO,YAAY,MAAM,yBAAyB,CAAC;AAEnD,MAAM,CAAC,OAAO,OAAO,QAAS,SAAQ,YAAY;IACzC,IAAI,EAAE,MAAM,CAAC;gBAER,KAAK,EAAE,KAAK;CAKzB"}

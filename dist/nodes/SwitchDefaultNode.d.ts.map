@@ -1,0 +1,1 @@
+{"version":3,"file":"SwitchDefaultNode.d.ts","sourceRoot":"","sources":["../../src/nodes/SwitchDefaultNode.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,KAAK,EAAE,MAAM,qBAAqB,CAAC;AAC5C,OAAO,YAAY,MAAM,yBAAyB,CAAC;AAEnD,MAAM,CAAC,OAAO,OAAO,iBAAkB,SAAQ,YAAY;IAClD,UAAU,EAAE,YAAY,EAAE,CAAC;gBAEtB,KAAK,EAAE,KAAK;CAKzB"}

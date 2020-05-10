@@ -1,0 +1,1 @@
+{"version":3,"file":"CompressNode.js","sourceRoot":"","sources":["../../src/nodes/CompressNode.ts"],"names":[],"mappings":";;;;;AAAA,iDAA8C;AAE9C,mFAA2D;AAE3D,MAAqB,YAAa,SAAQ,0BAAgB;IACxD,YAAY,KAAY;QACtB,KAAK,CAAC,qBAAS,CAAC,QAAQ,EAAE,KAAK,CAAC,CAAC;QACjC,IAAI,CAAC,QAAQ,CAAC,KAAK,CAAC,CAAC;QACrB,IAAI,CAAC,IAAI,GAAG,EAAE,CAAC;IACjB,CAAC;CACF;AAND,+BAMC"}

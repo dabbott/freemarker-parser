@@ -1,0 +1,1 @@
+{"version":3,"file":"TNode.d.ts","sourceRoot":"","sources":["../../src/nodes/TNode.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,KAAK,EAAE,MAAM,qBAAqB,CAAC;AAC5C,OAAO,YAAY,MAAM,yBAAyB,CAAC;AAEnD,MAAM,CAAC,OAAO,OAAO,KAAM,SAAQ,YAAY;gBACjC,KAAK,EAAE,KAAK;CAIzB"}

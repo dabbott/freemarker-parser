@@ -1,0 +1,1 @@
+{"version":3,"file":"AutoEscNode.d.ts","sourceRoot":"","sources":["../../src/nodes/AutoEscNode.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,KAAK,EAAE,MAAM,qBAAqB,CAAC;AAC5C,OAAO,gBAAgB,MAAM,6BAA6B,CAAC;AAE3D,MAAM,CAAC,OAAO,OAAO,WAAY,SAAQ,gBAAgB;gBAC3C,KAAK,EAAE,KAAK;CAKzB"}

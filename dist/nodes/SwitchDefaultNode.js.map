@@ -1,0 +1,1 @@
+{"version":3,"file":"SwitchDefaultNode.js","sourceRoot":"","sources":["../../src/nodes/SwitchDefaultNode.ts"],"names":[],"mappings":";;;;;AAAA,iDAA8C;AAE9C,2EAAmD;AAEnD,MAAqB,iBAAkB,SAAQ,sBAAY;IAGzD,YAAY,KAAY;QACtB,KAAK,CAAC,qBAAS,CAAC,aAAa,EAAE,KAAK,CAAC,CAAC;QACtC,IAAI,CAAC,QAAQ,CAAC,KAAK,CAAC,CAAC;QACrB,IAAI,CAAC,UAAU,GAAG,EAAE,CAAC;IACvB,CAAC;CACF;AARD,oCAQC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"SettingNode.d.ts","sourceRoot":"","sources":["../../src/nodes/SettingNode.ts"],"names":[],"mappings":"AAGA,OAAO,EAAE,oBAAoB,EAAE,MAAM,qBAAqB,CAAC;AAC3D,OAAO,EAAE,KAAK,EAAE,MAAM,qBAAqB,CAAC;AAC5C,OAAO,cAAc,MAAM,2BAA2B,CAAC;AAEvD,MAAM,CAAC,OAAO,OAAO,WAAY,SAAQ,cAAc;IAC9C,UAAU,EAAE,oBAAoB,CAAC;gBAE5B,KAAK,EAAE,KAAK;CAazB"}

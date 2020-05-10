@@ -1,0 +1,1 @@
+{"version":3,"file":"Symbols.d.ts","sourceRoot":"","sources":["../src/Symbols.ts"],"names":[],"mappings":"AAAA,oBAAY,QAAQ;IAClB,OAAO,YAAY;IACnB,aAAa,kBAAkB;IAC/B,cAAc,mBAAmB;IACjC,SAAS,cAAc;IACvB,UAAU,eAAe;IACzB,IAAI,SAAS;IACb,aAAa,kBAAkB;IAC/B,OAAO,YAAY;CACpB;AAED,MAAM,WAAW,WAAW;IAC1B,UAAU,EAAE,MAAM,CAAC;IACnB,QAAQ,EAAE,MAAM,EAAE,CAAC;IACnB,IAAI,EAAE,QAAQ,CAAC;CAChB"}

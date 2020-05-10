@@ -1,0 +1,1 @@
+{"version":3,"file":"AbstractBodyNode.d.ts","sourceRoot":"","sources":["../../../src/nodes/abstract/AbstractBodyNode.ts"],"names":[],"mappings":"AAAA,OAAO,YAAY,MAAM,gBAAgB,CAAC;AAE1C,MAAM,CAAC,OAAO,CAAC,QAAQ,OAAO,gBAAiB,SAAQ,YAAY;IAC1D,IAAI,CAAC,EAAE,YAAY,EAAE,CAAC;IAE7B,IAAI,OAAO,IAAI,OAAO,CAErB;IAEM,SAAS,CAAC,KAAK,EAAE,YAAY,GAAG,IAAI;CAO5C"}

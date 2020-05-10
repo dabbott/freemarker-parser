@@ -1,0 +1,1 @@
+{"version":3,"file":"FtlNode.d.ts","sourceRoot":"","sources":["../../src/nodes/FtlNode.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,UAAU,EAAE,MAAM,qBAAqB,CAAC;AACjD,OAAO,EAAE,KAAK,EAAE,MAAM,qBAAqB,CAAC;AAC5C,OAAO,cAAc,MAAM,2BAA2B,CAAC;AAEvD,MAAM,CAAC,OAAO,OAAO,OAAQ,SAAQ,cAAc;IAC1C,MAAM,CAAC,EAAE,UAAU,EAAE,CAAC;gBAEjB,KAAK,EAAE,KAAK;CAIzB"}
