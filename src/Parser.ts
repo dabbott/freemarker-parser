@@ -69,6 +69,10 @@ export class Parser extends ParserLocation {
             );
             continue;
           }
+          // Sep nodes are automatically closed if immediately followed by a list close
+          if (parent.type === NodeTypes.Sep && tokenType === NodeTypes.List) {
+            parent = stack.pop() as AbstractNode;
+          }
           if (parent.type !== tokenType) {
             ast.addError(
               new ParseError(`Unexpected close tag '${tokenType}'`, token),

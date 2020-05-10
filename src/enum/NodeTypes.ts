@@ -5,6 +5,7 @@ export enum NodeTypes {
   ConditionElse = 'ConditionElse',
   Include = 'Include',
   List = 'List',
+  Sep = 'Sep',
   Text = 'Text',
   Assign = 'Assign',
   Global = 'Global',

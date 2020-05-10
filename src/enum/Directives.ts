@@ -34,6 +34,7 @@ export enum Directives {
   // recurse = NodeTypes.Recurse, // TODO: unsupported
   return = NodeTypes.Return,
   rt = NodeTypes.Rt,
+  sep = NodeTypes.Sep,
   setting = NodeTypes.Setting,
   stop = NodeTypes.Stop,
   switch = NodeTypes.Switch,

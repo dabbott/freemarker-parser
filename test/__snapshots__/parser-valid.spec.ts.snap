@@ -22622,6 +22622,455 @@ Array [
 ]
 `;
 
+exports[`sep.ftl should have correct ast 1`] = `
+ProgramNode {
+  "body": Array [
+    TextNode {
+      "end": 21,
+      "loc": Object {
+        "end": Object {
+          "column": 1,
+          "line": 2,
+        },
+        "start": Object {
+          "column": 1,
+          "line": 1,
+        },
+      },
+      "start": 0,
+      "text": "Inner plannets data:
+",
+      "type": "Text",
+    },
+    ListNode {
+      "body": Array [
+        TextNode {
+          "end": 57,
+          "loc": Object {
+            "end": Object {
+              "column": 9,
+              "line": 3,
+            },
+            "start": Object {
+              "column": 28,
+              "line": 2,
+            },
+          },
+          "start": 48,
+          "text": "
+  Name: ",
+          "type": "Text",
+        },
+        InterpolationNode {
+          "end": 69,
+          "loc": Object {
+            "end": Object {
+              "column": 21,
+              "line": 3,
+            },
+            "start": Object {
+              "column": 9,
+              "line": 3,
+            },
+          },
+          "params": Object {
+            "computed": false,
+            "object": Object {
+              "name": "data",
+              "type": "Identifier",
+            },
+            "property": Object {
+              "name": "name",
+              "type": "Identifier",
+            },
+            "type": "MemberExpression",
+          },
+          "start": 57,
+          "type": "Interpolation",
+        },
+        SepNode {
+          "body": Array [
+            TextNode {
+              "end": 76,
+              "loc": Object {
+                "end": Object {
+                  "column": 28,
+                  "line": 3,
+                },
+                "start": Object {
+                  "column": 27,
+                  "line": 3,
+                },
+              },
+              "start": 75,
+              "text": ",",
+              "type": "Text",
+            },
+          ],
+          "end": 75,
+          "loc": Object {
+            "end": Object {
+              "column": 27,
+              "line": 3,
+            },
+            "start": Object {
+              "column": 21,
+              "line": 3,
+            },
+          },
+          "start": 69,
+          "type": "Sep",
+        },
+        TextNode {
+          "end": 84,
+          "loc": Object {
+            "end": Object {
+              "column": 1,
+              "line": 4,
+            },
+            "start": Object {
+              "column": 35,
+              "line": 3,
+            },
+          },
+          "start": 83,
+          "text": "
+",
+          "type": "Text",
+        },
+      ],
+      "end": 48,
+      "loc": Object {
+        "end": Object {
+          "column": 28,
+          "line": 2,
+        },
+        "start": Object {
+          "column": 1,
+          "line": 2,
+        },
+      },
+      "params": Object {
+        "body": Array [
+          Object {
+            "name": "planet_data",
+            "type": "Identifier",
+          },
+          Object {
+            "name": "as",
+            "type": "Identifier",
+          },
+          Object {
+            "name": "data",
+            "type": "Identifier",
+          },
+        ],
+        "type": "Compound",
+      },
+      "start": 21,
+      "type": "List",
+    },
+    TextNode {
+      "end": 93,
+      "loc": Object {
+        "end": Object {
+          "column": 1,
+          "line": 5,
+        },
+        "start": Object {
+          "column": 9,
+          "line": 4,
+        },
+      },
+      "start": 92,
+      "text": "
+",
+      "type": "Text",
+    },
+    ListNode {
+      "body": Array [
+        TextNode {
+          "end": 129,
+          "loc": Object {
+            "end": Object {
+              "column": 9,
+              "line": 6,
+            },
+            "start": Object {
+              "column": 28,
+              "line": 5,
+            },
+          },
+          "start": 120,
+          "text": "
+  Name: ",
+          "type": "Text",
+        },
+        InterpolationNode {
+          "end": 141,
+          "loc": Object {
+            "end": Object {
+              "column": 21,
+              "line": 6,
+            },
+            "start": Object {
+              "column": 9,
+              "line": 6,
+            },
+          },
+          "params": Object {
+            "computed": false,
+            "object": Object {
+              "name": "data",
+              "type": "Identifier",
+            },
+            "property": Object {
+              "name": "name",
+              "type": "Identifier",
+            },
+            "type": "MemberExpression",
+          },
+          "start": 129,
+          "type": "Interpolation",
+        },
+        SepNode {
+          "body": Array [
+            TextNode {
+              "end": 149,
+              "loc": Object {
+                "end": Object {
+                  "column": 1,
+                  "line": 7,
+                },
+                "start": Object {
+                  "column": 27,
+                  "line": 6,
+                },
+              },
+              "start": 147,
+              "text": ",
+",
+              "type": "Text",
+            },
+          ],
+          "end": 147,
+          "loc": Object {
+            "end": Object {
+              "column": 27,
+              "line": 6,
+            },
+            "start": Object {
+              "column": 21,
+              "line": 6,
+            },
+          },
+          "start": 141,
+          "type": "Sep",
+        },
+      ],
+      "end": 120,
+      "loc": Object {
+        "end": Object {
+          "column": 28,
+          "line": 5,
+        },
+        "start": Object {
+          "column": 1,
+          "line": 5,
+        },
+      },
+      "params": Object {
+        "body": Array [
+          Object {
+            "name": "planet_data",
+            "type": "Identifier",
+          },
+          Object {
+            "name": "as",
+            "type": "Identifier",
+          },
+          Object {
+            "name": "data",
+            "type": "Identifier",
+          },
+        ],
+        "type": "Compound",
+      },
+      "start": 93,
+      "type": "List",
+    },
+  ],
+  "end": 156,
+  "loc": Object {
+    "end": Object {
+      "column": 8,
+      "line": 7,
+    },
+    "start": Object {
+      "column": 1,
+      "line": 1,
+    },
+  },
+  "start": 0,
+  "type": "Program",
+}
+`;
+
+exports[`sep.ftl should have correct tokens 1`] = `
+Array [
+  Object {
+    "end": 21,
+    "endTag": undefined,
+    "params": undefined,
+    "start": 0,
+    "startTag": undefined,
+    "text": "Inner plannets data:
+",
+    "type": "Text",
+  },
+  Object {
+    "end": 48,
+    "endTag": ">",
+    "params": "planet_data as data",
+    "start": 21,
+    "startTag": "<#",
+    "text": "list",
+    "type": "OpenDirective",
+  },
+  Object {
+    "end": 57,
+    "endTag": undefined,
+    "params": undefined,
+    "start": 48,
+    "startTag": undefined,
+    "text": "
+  Name: ",
+    "type": "Text",
+  },
+  Object {
+    "end": 69,
+    "endTag": "}",
+    "params": "data.name",
+    "start": 57,
+    "startTag": "\${",
+    "text": "",
+    "type": "Interpolation",
+  },
+  Object {
+    "end": 75,
+    "endTag": ">",
+    "params": undefined,
+    "start": 69,
+    "startTag": "<#",
+    "text": "sep",
+    "type": "OpenDirective",
+  },
+  Object {
+    "end": 76,
+    "endTag": undefined,
+    "params": undefined,
+    "start": 75,
+    "startTag": undefined,
+    "text": ",",
+    "type": "Text",
+  },
+  Object {
+    "end": 83,
+    "endTag": ">",
+    "params": undefined,
+    "start": 76,
+    "startTag": "</#",
+    "text": "sep",
+    "type": "CloseDirective",
+  },
+  Object {
+    "end": 84,
+    "endTag": undefined,
+    "params": undefined,
+    "start": 83,
+    "startTag": undefined,
+    "text": "
+",
+    "type": "Text",
+  },
+  Object {
+    "end": 92,
+    "endTag": ">",
+    "params": undefined,
+    "start": 84,
+    "startTag": "</#",
+    "text": "list",
+    "type": "CloseDirective",
+  },
+  Object {
+    "end": 93,
+    "endTag": undefined,
+    "params": undefined,
+    "start": 92,
+    "startTag": undefined,
+    "text": "
+",
+    "type": "Text",
+  },
+  Object {
+    "end": 120,
+    "endTag": ">",
+    "params": "planet_data as data",
+    "start": 93,
+    "startTag": "<#",
+    "text": "list",
+    "type": "OpenDirective",
+  },
+  Object {
+    "end": 129,
+    "endTag": undefined,
+    "params": undefined,
+    "start": 120,
+    "startTag": undefined,
+    "text": "
+  Name: ",
+    "type": "Text",
+  },
+  Object {
+    "end": 141,
+    "endTag": "}",
+    "params": "data.name",
+    "start": 129,
+    "startTag": "\${",
+    "text": "",
+    "type": "Interpolation",
+  },
+  Object {
+    "end": 147,
+    "endTag": ">",
+    "params": undefined,
+    "start": 141,
+    "startTag": "<#",
+    "text": "sep",
+    "type": "OpenDirective",
+  },
+  Object {
+    "end": 149,
+    "endTag": undefined,
+    "params": undefined,
+    "start": 147,
+    "startTag": undefined,
+    "text": ",
+",
+    "type": "Text",
+  },
+  Object {
+    "end": 157,
+    "endTag": ">",
+    "params": undefined,
+    "start": 149,
+    "startTag": "</#",
+    "text": "list",
+    "type": "CloseDirective",
+  },
+]
+`;
+
 exports[`setting.ftl should have correct ast 1`] = `
 ProgramNode {
   "body": Array [

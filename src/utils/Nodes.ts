@@ -29,6 +29,7 @@ import NtNode from '../nodes/NtNode';
 import OutputFormatNode from '../nodes/OutputFormatNode';
 import ReturnNode from '../nodes/ReturnNode';
 import RtNode from '../nodes/RtNode';
+import SepNode from '../nodes/SepNode';
 import SettingNode from '../nodes/SettingNode';
 import StopNode from '../nodes/StopNode';
 import SwitchCaseNode from '../nodes/SwitchCaseNode';
@@ -145,6 +146,9 @@ const Nodes: NodeSelector = {
   },
   [NodeTypes.Switch](token: Token): SwitchNode {
     return new SwitchNode(token);
+  },
+  [NodeTypes.Sep](token: Token): SepNode {
+    return new SepNode(token);
   },
   [NodeTypes.Break](token: Token): BreakNode {
     return new BreakNode(token);
